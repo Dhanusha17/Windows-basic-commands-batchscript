@@ -1,4 +1,4 @@
-![326683013-f1f83410-e659-40ff-bee3-e079d93c7736](https://github.com/Dhanusha17/Windows-basic-commands-batchscript/assets/151549957/a70ee73b-c456-4de0-bffa-af6944a3bfde)# Windows-basic-commands-batchscript
+## Windows-basic-commands-batchscript
 Ex08-Windows-basic-commands-batchscript
 
 # AIM:
